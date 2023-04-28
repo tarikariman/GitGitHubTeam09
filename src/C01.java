@@ -9,6 +9,9 @@ public class C01 {
         System.out.println("Java is easy");
         //version02
 
+        System.out.println("Java is hard");
+        //version03
+
 
     }
 }
