@@ -15,6 +15,9 @@ public class C01 {
         System.out.println("Java kolaydir");
         //version04
 
+        System.out.println("Java zordur");
+        //version05
+
 
     }
 }
