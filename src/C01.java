@@ -12,6 +12,9 @@ public class C01 {
         System.out.println("Java is hard");
         //version03
 
+        System.out.println("Java kolaydir");
+        //version04
+
 
     }
 }
