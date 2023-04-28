@@ -6,6 +6,9 @@ public class C01 {
         System.out.println("Bugun hava guzel");
         //version01
 
+        System.out.println("Java is easy");
+        //version02
+
 
     }
 }
